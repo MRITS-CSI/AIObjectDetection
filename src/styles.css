@@ -26,3 +26,14 @@
 	opacity: 0.2;
 	background-color: #ffffff;
 }
+body{
+	background-image: url(Images/bgimg.jpg);
+	background-position: 50%;
+	background-size : 500px; ;
+}
+.ui.container.segment{
+	background-color: rgba(255, 0, 0, 0.0);
+}
+h2.ui.center.aligned.icon.header {
+    color: white;
+}
